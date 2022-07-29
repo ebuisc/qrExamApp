@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517503137696",
+    "project_id": "examapp-2407d",
+    "storage_bucket": "examapp-2407d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517503137696:android:0834b88fda5691f1df96c5",
+        "android_client_info": {
+          "package_name": "com.ebuis.exam_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517503137696-k04g5k758aeck93khr43gnucihb1pucg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC78aaFc0yELhY2YEZop6QXxErOBTrgAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517503137696-k04g5k758aeck93khr43gnucihb1pucg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
